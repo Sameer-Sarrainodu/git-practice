@@ -9,3 +9,5 @@ Feature2 work
 New feature2 work
 Temporary work
 Critical bug fix
+Wrong change
+Another wrong change
