@@ -7,3 +7,5 @@ Another teammate update
 Main new change again
 Feature2 work
 New feature2 work
+Temporary work
+Critical bug fix
